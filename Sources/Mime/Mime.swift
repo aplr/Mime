@@ -166,7 +166,7 @@ public struct Mime: Hashable, Codable {
     
 }
 
-public enum FileType: Codable {
+public enum FileType: String, Codable {
     case amr
     case ai
     case ar
