@@ -170,7 +170,6 @@ public struct Mime: Hashable, Codable {
         "msp": ("application/octet-stream", .msp),
         "msm": ("application/octet-stream", .msm),
         "mxf": ("application/mxf", .mxf),
-        "rpm": ("application/x-rpm", .rpm),
         "docx": ("application/vnd.openxmlformats-officedocument.wordprocessingml.document", .doc),
         "xlsx": ("application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", .xls),
         "pptx": ("application/vnd.openxmlformats-officedocument.presentationml.presentation", .ppt),
