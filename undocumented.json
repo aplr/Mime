@@ -2,861 +2,805 @@
   "warnings": [
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 10,
-      "symbol": "Mime",
-      "symbol_kind": "source.lang.swift.decl.struct",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 12,
-      "symbol": "Mime.mime",
-      "symbol_kind": "source.lang.swift.decl.var.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 13,
-      "symbol": "Mime.ext",
-      "symbol_kind": "source.lang.swift.decl.var.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 14,
-      "symbol": "Mime.type",
-      "symbol_kind": "source.lang.swift.decl.var.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 16,
-      "symbol": "Mime.init(mime:ext:type:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 22,
-      "symbol": "Mime.init(ext:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 30,
-      "symbol": "Mime.init(url:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 169,
-      "symbol": "FileType",
-      "symbol_kind": "source.lang.swift.decl.enum",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 170,
+      "line": 213,
       "symbol": "FileType.amr",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 171,
+      "line": 214,
       "symbol": "FileType.ai",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 172,
+      "line": 215,
       "symbol": "FileType.ar",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 173,
+      "line": 216,
       "symbol": "FileType.asf",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 174,
+      "line": 217,
       "symbol": "FileType.asx",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 175,
+      "line": 218,
       "symbol": "FileType.atom",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 176,
+      "line": 219,
       "symbol": "FileType.avi",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 177,
+      "line": 220,
       "symbol": "FileType.bin",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 178,
+      "line": 221,
       "symbol": "FileType.bmp",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 179,
+      "line": 222,
       "symbol": "FileType.bz2",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 180,
+      "line": 223,
       "symbol": "FileType.cab",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 181,
+      "line": 224,
       "symbol": "FileType.cco",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 182,
+      "line": 225,
       "symbol": "FileType.cr2",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 183,
+      "line": 226,
       "symbol": "FileType.crt",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 184,
+      "line": 227,
       "symbol": "FileType.crx",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 185,
+      "line": 228,
       "symbol": "FileType.css",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 186,
+      "line": 229,
       "symbol": "FileType.deb",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 187,
+      "line": 230,
       "symbol": "FileType.der",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 188,
+      "line": 231,
       "symbol": "FileType.dll",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 189,
+      "line": 232,
       "symbol": "FileType.dmg",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 190,
+      "line": 233,
       "symbol": "FileType.doc",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 191,
+      "line": 234,
       "symbol": "FileType.ear",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 192,
+      "line": 235,
       "symbol": "FileType.eot",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 193,
+      "line": 236,
       "symbol": "FileType.eps",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 194,
+      "line": 237,
       "symbol": "FileType.epub",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 195,
+      "line": 238,
       "symbol": "FileType.exe",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 196,
+      "line": 239,
       "symbol": "FileType.flac",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 197,
+      "line": 240,
       "symbol": "FileType.flif",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 198,
+      "line": 241,
       "symbol": "FileType.flv",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 199,
+      "line": 242,
       "symbol": "FileType.gif",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 200,
+      "line": 243,
       "symbol": "FileType.gz",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 201,
+      "line": 244,
       "symbol": "FileType.hqx",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 202,
+      "line": 245,
       "symbol": "FileType.htc",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 203,
+      "line": 246,
       "symbol": "FileType.html",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 204,
+      "line": 247,
       "symbol": "FileType.ico",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 205,
+      "line": 248,
       "symbol": "FileType.img",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 206,
+      "line": 249,
       "symbol": "FileType.iso",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 207,
+      "line": 250,
       "symbol": "FileType.jad",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 208,
+      "line": 251,
       "symbol": "FileType.jar",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 209,
+      "line": 252,
       "symbol": "FileType.jardiff",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 210,
+      "line": 253,
       "symbol": "FileType.jng",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 211,
+      "line": 254,
       "symbol": "FileType.jnlp",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 212,
+      "line": 255,
       "symbol": "FileType.jpg",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 213,
+      "line": 256,
       "symbol": "FileType.js",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 214,
+      "line": 257,
       "symbol": "FileType.json",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 215,
+      "line": 258,
       "symbol": "FileType.jxr",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 216,
+      "line": 259,
       "symbol": "FileType.kml",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 217,
+      "line": 260,
       "symbol": "FileType.kmz",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 218,
+      "line": 261,
       "symbol": "FileType.lz",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 219,
+      "line": 262,
       "symbol": "FileType.m3u8",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 220,
+      "line": 263,
       "symbol": "FileType.m4a",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 221,
+      "line": 264,
       "symbol": "FileType.m4v",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 222,
+      "line": 265,
       "symbol": "FileType.md",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 223,
+      "line": 266,
       "symbol": "FileType.midi",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 224,
+      "line": 267,
       "symbol": "FileType.mkv",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 225,
+      "line": 268,
       "symbol": "FileType.mml",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 226,
+      "line": 269,
       "symbol": "FileType.mng",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 227,
+      "line": 270,
       "symbol": "FileType.mov",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 228,
+      "line": 271,
       "symbol": "FileType.mp3",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 229,
+      "line": 272,
       "symbol": "FileType.mp4",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 230,
+      "line": 273,
       "symbol": "FileType.mpg",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 231,
+      "line": 274,
       "symbol": "FileType.msi",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 232,
+      "line": 275,
       "symbol": "FileType.msm",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 233,
+      "line": 276,
       "symbol": "FileType.msp",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 234,
+      "line": 277,
       "symbol": "FileType.mxf",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 235,
+      "line": 278,
       "symbol": "FileType.nes",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 236,
+      "line": 279,
       "symbol": "FileType.ogg",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 237,
+      "line": 280,
       "symbol": "FileType.opus",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 238,
+      "line": 281,
       "symbol": "FileType.otf",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 239,
+      "line": 282,
       "symbol": "FileType.pdf",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 240,
+      "line": 283,
       "symbol": "FileType.pdb",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 241,
+      "line": 284,
       "symbol": "FileType.pem",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 242,
+      "line": 285,
       "symbol": "FileType.pl",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 243,
+      "line": 286,
       "symbol": "FileType.pm",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 244,
+      "line": 287,
       "symbol": "FileType.png",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 245,
+      "line": 288,
       "symbol": "FileType.ppt",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 246,
+      "line": 289,
       "symbol": "FileType.prc",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 247,
+      "line": 290,
       "symbol": "FileType.ps",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 248,
+      "line": 291,
       "symbol": "FileType.psd",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 249,
+      "line": 292,
       "symbol": "FileType.ra",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 250,
+      "line": 293,
       "symbol": "FileType.rar",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 251,
+      "line": 294,
       "symbol": "FileType.rpm",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 252,
+      "line": 295,
       "symbol": "FileType.rss",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 253,
+      "line": 296,
       "symbol": "FileType.rtf",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 254,
+      "line": 297,
       "symbol": "FileType.run",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 255,
+      "line": 298,
       "symbol": "FileType.sea",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 256,
+      "line": 299,
       "symbol": "FileType.sevenZ",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 257,
+      "line": 300,
       "symbol": "FileType.sit",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 258,
+      "line": 301,
       "symbol": "FileType.sqlite",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 259,
+      "line": 302,
       "symbol": "FileType.svg",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 260,
+      "line": 303,
       "symbol": "FileType.swf",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 261,
+      "line": 304,
       "symbol": "FileType.tar",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 262,
+      "line": 305,
       "symbol": "FileType.tcl",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 263,
+      "line": 306,
       "symbol": "FileType.threeGp",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 264,
+      "line": 307,
       "symbol": "FileType.tif",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 265,
+      "line": 308,
       "symbol": "FileType.tk",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 266,
+      "line": 309,
       "symbol": "FileType.ts",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 267,
+      "line": 310,
       "symbol": "FileType.ttf",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 268,
+      "line": 311,
       "symbol": "FileType.txt",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 269,
+      "line": 312,
       "symbol": "FileType.war",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 270,
+      "line": 313,
       "symbol": "FileType.wav",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 271,
+      "line": 314,
       "symbol": "FileType.wbmp",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 272,
+      "line": 315,
       "symbol": "FileType.webm",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 273,
+      "line": 316,
       "symbol": "FileType.webp",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 274,
+      "line": 317,
       "symbol": "FileType.wml",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 275,
+      "line": 318,
       "symbol": "FileType.wmlc",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 276,
+      "line": 319,
       "symbol": "FileType.wmv",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 277,
+      "line": 320,
       "symbol": "FileType.woff",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 278,
+      "line": 321,
       "symbol": "FileType.xls",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 279,
+      "line": 322,
       "symbol": "FileType.xml",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 280,
+      "line": 323,
       "symbol": "FileType.xpi",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 281,
+      "line": 324,
       "symbol": "FileType.xspf",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 282,
+      "line": 325,
       "symbol": "FileType.xz",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 283,
+      "line": 326,
       "symbol": "FileType.z",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
       "file": "/Users/runner/work/Mime/Mime/Sources/Mime/Mime.swift",
-      "line": 284,
+      "line": 327,
       "symbol": "FileType.zip",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
