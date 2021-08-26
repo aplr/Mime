@@ -77,6 +77,10 @@ public struct Mime: Hashable, Codable {
         "shtml": ("text/html", .html),
         "css": ("text/css", .css),
         "xml": ("text/xml", .xml),
+        "vcf": ("text/vcard", .vcard),
+        "vcard": ("text/vcard", .vcard),
+        "ics": ("text/calendar", .ical),
+        "ical": ("text/calendar", .ical),
         "gif": ("image/gif", .gif),
         "jpeg": ("image/jpeg", .jpg),
         "jpg": ("image/jpeg", .jpg),
@@ -241,6 +245,7 @@ public enum FileType: String, Codable {
     case hqx
     case htc
     case html
+    case ical
     case ico
     case img
     case iso
@@ -306,6 +311,7 @@ public enum FileType: String, Codable {
     case ts
     case ttf
     case txt
+    case vcard
     case war
     case wav
     case wbmp
