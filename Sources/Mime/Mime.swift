@@ -160,6 +160,7 @@ public struct Mime: Hashable, Codable {
         "docx": ("application/vnd.openxmlformats-officedocument.wordprocessingml.document", .doc),
         "xlsx": ("application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", .xls),
         "pptx": ("application/vnd.openxmlformats-officedocument.presentationml.presentation", .ppt),
+        "aac": ("audio/aac", .aac),
         "amr": ("audio/amr", .amr),
         "awb": ("audio/amr-wb", .amr),
         "flac": ("audio/x-flac", .flac),
@@ -211,6 +212,7 @@ public struct Mime: Hashable, Codable {
 
 /// An enum to describe categories of mime types.
 public enum FileType: String, Codable {
+    case aac
     case amr
     case ai
     case ar
